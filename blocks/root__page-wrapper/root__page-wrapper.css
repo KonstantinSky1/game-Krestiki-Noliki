@@ -1,0 +1,7 @@
+.root__page-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 200px 0 0 0;
+  width: 100vw;
+  height: 100vh;
+}

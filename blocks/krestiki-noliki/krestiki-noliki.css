@@ -1,0 +1,6 @@
+.krestiki-noliki {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+}

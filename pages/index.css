@@ -1,0 +1,16 @@
+@import url('../vendor/reset.css');
+
+@import url('../blocks/root/root.css');
+@import url('../blocks/root__page-wrapper/root__page-wrapper.css');
+@import url('../blocks/krestiki-noliki/krestiki-noliki.css');
+@import url('../blocks/game-over/game-over.css');
+
+@import url('../blocks/krestiki-noliki/krestiki-noliki__field/krestiki-noliki__field.css');
+@import url('../blocks/game-over/game-over__text/game-over__text.css');
+@import url('../blocks/game-over/game-over__links/game-over__links.css');
+@import url('../blocks/game-over/game-over__link/game-over__link.css');
+
+@import url('../blocks/krestiki-noliki/krestiki-noliki__field/_border/krestiki-noliki__field_border_bottom.css');
+@import url('../blocks/krestiki-noliki/krestiki-noliki__field/_border/krestiki-noliki__field_border_right.css');
+@import url('../blocks/krestiki-noliki/krestiki-noliki__field/_type/krestiki-noliki__field_type_krestik.css');
+@import url('../blocks/krestiki-noliki/krestiki-noliki__field/_type/krestiki-noliki__field_type_nolik.css');
