@@ -3,4 +3,5 @@
   height: 300px;
   display: flex;
   flex-wrap: wrap;
+  position: relative;
 }

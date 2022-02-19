@@ -1,0 +1,9 @@
+.krestiki-noliki__line8 {
+  display: block;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  visibility: hidden;
+}
