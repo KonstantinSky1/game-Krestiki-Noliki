@@ -137,7 +137,7 @@ function addImage(field) {
   field.disabled = true;
 
   let randomField = findFieldWitoutAttrDisabled();
-  if (randomField) {
+  if (randomField && !checkVictoryKrestikOrNolik('krestiki-noliki__field_type_krestik')) {
     randomField.classList.add('krestiki-noliki__field_type_nolik');
     randomField.disabled = true;
   }
